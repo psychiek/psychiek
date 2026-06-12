@@ -1,6 +1,6 @@
 <div align="center">
 
-# - ˏˋ ♡ welcome to my little corner ♡ ˎˊ -
+# - ˏˋ ♡ welcome to my github ♡ ˎˊ -
 
 *ੈ✩‧₊˚*
 
