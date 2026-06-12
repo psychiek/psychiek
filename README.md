@@ -9,9 +9,10 @@
 ---
 
 ## *.｡ about this page ｡.*
-
-◇ this account contains my personal projects ♡  
-◇ coding experiments and university works   
+<sub>
+◇ this account contains my personal projects ♡<br>  
+◇ coding experiments and university works<br>
+</sub>
 ---
 
 ## ❀ interests ❀
