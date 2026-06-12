@@ -18,10 +18,12 @@
 ---
 
 ## ❀ interests ❀
-
+<div align="left">
+<small>
 ◇ pcb design ✨  
 ◇ programming ♡
-
+</small>
+</div>
 ---
 
 *.｡☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆*
