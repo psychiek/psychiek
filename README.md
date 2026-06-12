@@ -16,7 +16,6 @@
 
 ## ❀ interests ❀
 
-◇ embedded systems ⚡  
 ◇ pcb design ✨  
 ◇ programming ♡
 
