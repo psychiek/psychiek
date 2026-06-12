@@ -20,8 +20,8 @@
 ## ❀ interests ❀
 <div align="left">
 <small>
-◇ pcb design ✨  
-◇ programming ♡
+◇ pcb design ✨<br>  
+◇ programming ♡<br>
 </small>
 </div>
 ---
