@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**psychiek/psychiek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# - ˏˋ ♡ welcome to my little corner ♡ ˎˊ -
 
-Here are some ideas to get you started:
+*ੈ✩‧₊˚*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*a place where I share projects, and things I create ✿*
+
+---
+
+## *.｡ about this page ｡.*
+
+◇ this account contains my personal projects ♡  
+◇ coding experiments and university works   
+---
+
+## ❀ interests ❀
+
+◇ embedded systems ⚡  
+◇ pcb design ✨  
+◇ programming ♡
+
+---
+
+*.｡☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆*
+
+### happy coding ♡
+
+</div>
