@@ -9,10 +9,12 @@
 ---
 
 ## *.｡ about this page ｡.*
-<sub>
+<div align="left">
+<small>
 ◇ this account contains my personal projects ♡<br>  
 ◇ coding experiments and university works<br>
-</sub>
+</small>
+</div>
 ---
 
 ## ❀ interests ❀
