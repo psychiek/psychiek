@@ -6,7 +6,7 @@
 
 *a place where I share projects, and things I create ✿*
 
----
+--------
 
 ## *.｡ about this page ｡.*
 <div align="left">
@@ -15,7 +15,8 @@
 ◇ coding experiments and university works<br>
 </small>
 </div>
----
+
+--------
 
 ## ❀ interests ❀
 <div align="left">
