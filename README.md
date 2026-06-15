@@ -21,7 +21,7 @@
 ## ❀ interests ❀
 <div align="left">
 <small>
-◇ pcb design ✨<br>  
+◇ ai automation ✨<br>  
 ◇ programming ♡<br>
 </small>
 </div>
