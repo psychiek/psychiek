@@ -21,7 +21,6 @@
 ## ❀ interests ❀
 <div align="left">
 <small>
-◇ ai automation ✨<br>  
 ◇ programming ♡<br>
 </small>
 </div>
