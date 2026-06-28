@@ -22,6 +22,8 @@
 <div align="left">
 <small>
 ◇ programming ♡<br>
+◇ cloud computing<br>
+◇ ai automation<br>
 </small>
 </div>
 
